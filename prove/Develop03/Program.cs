@@ -42,7 +42,7 @@ class Program
     {
         Random jph_randomGenerator = new Random();
         int jph_INDEX = jph_randomGenerator.Next(0, 11);
-        string filename = "scriptures.csv"; // 2.
+        string filename = "./bin/Debug/net10.0/scriptures.csv"; // 2.
         string jph_targetLine = System.IO.File.ReadLines(filename).Skip(jph_INDEX).FirstOrDefault(); // 3.
 
         string[] parts = jph_targetLine.Split(" || "); // 2.
