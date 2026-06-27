@@ -2,7 +2,7 @@ using System;
 /*
 Name: Jacob Hutson
 Date: 6/12/2026
-Class: CSE 310
+Class: CSE 210
 Description: The class to run the breathing activity. No attributes were needed, but this class did need a 
 method to run the activity.
 Sources:

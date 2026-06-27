@@ -2,7 +2,7 @@ using System;
 /*
 Name: Jacob Hutson
 Date: 6/12/2026
-Class: CSE 310
+Class: CSE 210
 Description: The parent class for all of the other classes. Meant to create the beginning and ending messages, 
 show the animation, the countdown, and creates the run function that the subclasses will overwrite.
 Sources:

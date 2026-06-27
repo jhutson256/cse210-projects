@@ -2,7 +2,7 @@ using System;
 /*
 Name: Jacob Hutson
 Date: 6/12/2026
-Class: CSE 310
+Class: CSE 210
 Description: The class to run the positive affirmation activity. This is what I decided to create to make this 
 program my own. This class is supposed to randomly display a positive affirmation every 5 seconds until the time 
 reaches the duration.

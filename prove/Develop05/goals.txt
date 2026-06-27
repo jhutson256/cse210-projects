@@ -1,0 +1,4 @@
+400
+SimpleGoal:Exercise,I will exercise today,50,True
+ChecklistGoal:Eat Healthy,Eat healthy meals throughout the day,50,5,5,100
+EternalGoal:Scriptures,Read my scriptures daily,50

@@ -2,7 +2,7 @@ using System;
 /*
 Name: Jacob Hutson
 Date: 6/12/2026
-Class: CSE 310
+Class: CSE 210
 Description: The main function of the program meant to execute the rest of the classes, their methods, 
 and run the menu for the program. For the stretch to make this program my own, I created a fourth activity called 
 the positive affirmation activity and implemented it into the program.

@@ -2,7 +2,7 @@ using System;
 /*
 Name: Jacob Hutson
 Date: 6/12/2026
-Class: CSE 310
+Class: CSE 210
 Description: The class to run the reflection activity.
 Sources:
 1. Assignment Code Advice https://byui-cse.github.io/cse210-course-2023/unit04/develop.html
