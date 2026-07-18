@@ -11,7 +11,7 @@ Sources:
 2. In Class Notes
 */
 
-class Program
+public class Program
 {
     static void Main(string[] args)
     {

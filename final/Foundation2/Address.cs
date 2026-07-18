@@ -10,7 +10,7 @@ Sources:
 2. In Class Notes
 */
 
-class Address
+public class Address
 {
     private string _jphAddress;
     private string _jphCity;

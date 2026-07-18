@@ -9,7 +9,7 @@ Sources:
 2. In Class Notes
 */
 
-class Customer
+public class Customer
 {
     private string _jphName;
     private Address _jphAddress;

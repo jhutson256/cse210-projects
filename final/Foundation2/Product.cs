@@ -9,7 +9,7 @@ Sources:
 2. In Class Notes
 */
 
-class Product
+public class Product
 {
     private string _jphName;
     private string _jphProductId;

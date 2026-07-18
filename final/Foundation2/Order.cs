@@ -11,7 +11,7 @@ Sources:
 2. In Class Notes
 */
 
-class Order
+public class Order
 {
     private List<Product> _jphProducts;
     private Customer _jphCustomer;
